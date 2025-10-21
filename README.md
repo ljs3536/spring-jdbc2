@@ -8,3 +8,5 @@
 데이터베이스 테이블 설정 / 정리 / JdbcTemplate 소개와 설정
 # 2025-10-20
 JdbcTemplate 적용1 - 기본
+# 2025-10-21
+JdbcTemplate 적용2 - 동적 쿼리 문제 / JdbcTemplate 적용3 - 구성과 실행
