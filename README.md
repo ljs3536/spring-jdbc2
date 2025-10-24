@@ -12,3 +12,5 @@ JdbcTemplate 적용1 - 기본
 JdbcTemplate 적용2 - 동적 쿼리 문제 / JdbcTemplate 적용3 - 구성과 실행
 # 2025-10-22
 Jdbctemplate - 이름 지정 파라미터 1
+# 2025-10-23
+Jdbctemplate - 이름 지정 파라미터 2 / Jdbctemplate - 이름 지정 파라미터 3
