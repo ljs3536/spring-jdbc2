@@ -32,3 +32,5 @@ JdbcTemplate 기능 정리 / 정리 / 테스트 - 데이터베이스 연동
 MyBatis 소개 / MyBatis설정
 # 2025-11-02
 MyBatis 적용1 - 기본
+# 2025-11-03
+MyBatis 적용2 - 설정과 실행
