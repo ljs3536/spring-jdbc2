@@ -56,3 +56,5 @@ JPA 적용2 - 리포지토리 분석 / JPA 적용3 - 예외 반환
 정리 / Querydsl 소개1 - 기존 방식의 문제점 / Querydsl 소개2 - 해결
 # 2025-11-15
 Querydsl 설정
+# 2025-11-16
+Querydsl 적용
